@@ -1,7 +1,6 @@
 # ReadMe Generator
 
   ## Table of Contents
-  =================
 
   * [Description](#Descrption)
   * [Installation](Installation)
@@ -27,7 +26,7 @@
     No tests
 
   ## License
-    Apache 
+    N/A 
 
   ## Contact 
   Github | Email 

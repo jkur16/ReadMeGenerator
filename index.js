@@ -69,7 +69,6 @@ const promptUser = () => {
     `# ${answers.title}
 
   ## Table of Contents
-  =================
 
   * [Description](#Descrption)
   * [Installation](Installation)
