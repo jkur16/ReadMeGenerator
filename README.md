@@ -2,8 +2,8 @@
 
   ## Table of Contents
 
-  * [Description](#Descrption)
-  * [Installation](Installation)
+  * [Description](#Description)
+  * [Installation](#Installation)
   * [Usage](#Usage)
   * [Contibutors](#Contributors)
   * [Test](#Test)
@@ -16,7 +16,7 @@
   ## Installation 
     npm init
 
-  ## What is the project used for? 
+  ## Usage 
     Run node index at the root of your project and answer the prompted questions.
 
   ## Contributors 
