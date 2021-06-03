@@ -1,9 +1,11 @@
 # ReadMe Generator
 
+![ReadMe Generator](readMeGenerator.gif)
+
   ## Table of Contents
 
-  * [Description](#Description)
-  * [Installation](#Installation)
+  * [Description](#Descrption)
+  * [Installation](Installation)
   * [Usage](#Usage)
   * [Contibutors](#Contributors)
   * [Test](#Test)
@@ -16,17 +18,17 @@
   ## Installation 
     npm init
 
-  ## Usage 
+  ## What is the project used for? 
     Run node index at the root of your project and answer the prompted questions.
 
   ## Contributors 
     Jamie Kuras
 
   ## Test
-    No tests
+    No Test
 
   ## License
-    N/A 
+    N/A
 
   ## Contact 
   Github | Email 
