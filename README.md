@@ -1,6 +1,6 @@
 # ReadMe Generator
 
-![ReadMe Generator](readMeGenerator.gif)
+  ![ReadMe Generator](https://github.com/jkur16/ReadMeGenerator/blob/main/assets/gif/readMeGenerator.gif?raw=true)
 
   ## Table of Contents
 
